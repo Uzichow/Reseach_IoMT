@@ -1,0 +1,200 @@
+Date : 2021-04-15-09:48:09UDP : b'Hello there !'\lnDate : 2021-04-15-09:48:09UDP : b'Hello there !'\lnDate : 2021-04-15-09:48:09UDP : b'Hello there !'\lnDate : 2021-04-15-09:48:09UDP : b'Hello there !'\lnDate : 2021-04-15-09:48:09UDP : b'Hello there !'\lnDate : 2021-04-15-09:48:09UDP : b'Hello there !'\lnDate : 2021-04-15-09:48:09UDP : b'Hello there !'\lnDate : 2021-04-15-09:48:09UDP : b'Hello there !'\lnDate : 2021-04-15-09:48:09UDP : b'Hello there !'\lnDate : 2021-04-15-09:48:09UDP : b'Hello there !'\lnDate : 2021-04-15-09:48:53UDP : b'Hello there !'
+Date : 2021-04-15-09:48:53UDP : b'Hello there !'
+Date : 2021-04-15-09:48:53UDP : b'Hello there !'
+Date : 2021-04-15-09:48:53UDP : b'Hello there !'
+Date : 2021-04-15-09:48:53UDP : b'Hello there !'
+Date : 2021-04-15-09:48:53UDP : b'Hello there !'
+Date : 2021-04-15-09:48:53UDP : b'Hello there !'
+Date : 2021-04-15-09:48:53UDP : b'Hello there !'
+Date : 2021-04-15-09:48:53UDP : b'Hello there !'
+Date : 2021-04-15-09:48:53UDP : b'Hello there !'
+Date : 2021-04-15-10:06:21   UDP : b'Hello there !'
+Date : 2021-04-15-10:06:21   UDP : b'Hello there !'
+Date : 2021-04-15-10:06:21   UDP : b'Hello there !'
+Date : 2021-04-15-10:06:21   UDP : b'Hello there !'
+Date : 2021-04-15-10:06:21   UDP : b'Hello there !'
+Date : 2021-04-15-10:06:21   UDP : b'Hello there !'
+Date : 2021-04-15-10:06:21   UDP : b'Hello there !'
+Date : 2021-04-15-10:06:21   UDP : b'Hello there !'
+Date : 2021-04-15-10:06:21   UDP : b'Hello there !'
+Date : 2021-04-15-10:06:21   UDP : b'Hello there !'
+Date : 2021-04-15-10:18:38   UDP : b'Hello there !'
+Date : 2021-04-15-10:18:38   UDP : b'Hello there !'
+Date : 2021-04-15-10:18:38   UDP : b'Hello there !'
+Date : 2021-04-15-10:18:38   UDP : b'Hello there !'
+Date : 2021-04-15-10:18:38   UDP : b'Hello there !'
+Date : 2021-04-15-10:18:38   UDP : b'Hello there !'
+Date : 2021-04-15-10:18:38   UDP : b'Hello there !'
+Date : 2021-04-15-10:18:38   UDP : b'Hello there !'
+Date : 2021-04-15-10:18:38   UDP : b'Hello there !'
+Date : 2021-04-15-10:18:38   UDP : b'Hello there !'
+Date : 2021-04-15-11:56:06   UDP : b'21.15'
+Date : 2021-04-15-11:56:06   UDP : b'21.15'
+Date : 2021-04-15-11:56:06   UDP : b'21.15'
+Date : 2021-04-15-11:56:06   UDP : b'21.15'
+Date : 2021-04-15-11:56:06   UDP : b'21.25'
+Date : 2021-04-15-11:56:06   UDP : b'21.25'
+Date : 2021-04-15-11:56:06   UDP : b'21.35'
+Date : 2021-04-15-11:56:06   UDP : b'21.35'
+Date : 2021-04-15-11:56:06   UDP : b'23.13'
+Date : 2021-04-15-11:56:06   UDP : b'26.14'
+Date : 2021-04-15-11:57:02   Température : b'21.64'°C 
+Date : 2021-04-15-11:57:02   Température : b'21.64'°C 
+Date : 2021-04-15-11:57:02   Température : b'23.63'°C 
+Date : 2021-04-15-11:57:02   Température : b'26.04'°C 
+Date : 2021-04-15-11:57:02   Température : b'27.36'°C 
+Date : 2021-04-15-11:57:02   Température : b'27.87'°C 
+Date : 2021-04-15-11:57:02   Température : b'27.36'°C 
+Date : 2021-04-15-11:57:02   Température : b'27.97'°C 
+Date : 2021-04-15-11:57:02   Température : b'28.69'°C 
+Date : 2021-04-15-11:57:02   Température : b'29.00'°C 
+Date : 2021-04-29-16:39:05   Température : b'23.83'°C 
+Date : 2021-04-29-16:39:05   Température : b'23.83'°C 
+Date : 2021-04-29-16:39:05   Température : b'23.83'°C 
+Date : 2021-04-29-16:39:05   Température : b'23.83'°C 
+Date : 2021-04-29-16:39:05   Température : b'23.83'°C 
+Date : 2021-04-29-16:39:05   Température : b'23.83'°C 
+Date : 2021-04-29-16:39:05   Température : b'23.83'°C 
+Date : 2021-04-29-16:39:05   Température : b'23.83'°C 
+Date : 2021-04-29-16:39:05   Température : b'23.83'°C 
+Date : 2021-04-29-16:39:05   Température : b'23.83'°C 
+Date : 2021-04-29-17:31:45   Température : b''°C 
+Date : 2021-04-29-17:31:45   Température : b''°C 
+Date : 2021-04-29-17:31:45   Température : b''°C 
+Date : 2021-04-29-17:31:45   Température : b''°C 
+Date : 2021-04-29-17:31:45   Température : b''°C 
+Date : 2021-04-29-17:31:45   Température : b''°C 
+Date : 2021-04-29-17:31:45   Température : b''°C 
+Date : 2021-04-29-17:31:45   Température : b''°C 
+Date : 2021-04-29-17:31:45   Température : b''°C 
+Date : 2021-04-29-17:31:45   Température : b''°C 
+Date : 2021-04-30-14:50:47   Température : b'24.83'°C 
+Date : 2021-04-30-14:50:47   Température : b'24.83'°C 
+Date : 2021-04-30-14:50:47   Température : b'24.83'°C 
+Date : 2021-04-30-14:50:47   Température : b'24.83'°C 
+Date : 2021-04-30-14:50:47   Température : b'24.83'°C 
+Date : 2021-04-30-14:50:47   Température : b'24.83'°C 
+Date : 2021-04-30-14:50:47   Température : b'24.83'°C 
+Date : 2021-04-30-14:50:47   Température : b'24.83'°C 
+Date : 2021-04-30-14:50:47   Température : b'24.83'°C 
+Date : 2021-04-30-14:50:47   Température : b'24.83'°C 
+Date : 2021-04-30-14:52:24   Température : b'25.13'°C 
+Date : 2021-04-30-14:52:24   Température : b'25.13'°C 
+Date : 2021-04-30-14:52:24   Température : b'25.13'°C 
+Date : 2021-04-30-14:52:24   Température : b'25.13'°C 
+Date : 2021-04-30-14:52:24   Température : b'25.13'°C 
+Date : 2021-04-30-14:52:24   Température : b'25.13'°C 
+Date : 2021-04-30-14:52:24   Température : b'25.13'°C 
+Date : 2021-04-30-14:52:24   Température : b'25.03'°C 
+Date : 2021-04-30-14:52:24   Température : b'25.03'°C 
+Date : 2021-04-30-14:52:24   Température : b'25.03'°C 
+Date : 2021-04-30-15:03:13   Température : b''°C 
+Date : 2021-04-30-15:03:13   Température : b''°C 
+Date : 2021-04-30-15:03:13   Température : b''°C 
+Date : 2021-04-30-15:03:13   Température : b''°C 
+Date : 2021-04-30-15:03:13   Température : b''°C 
+Date : 2021-04-30-15:03:13   Température : b''°C 
+Date : 2021-04-30-15:03:13   Température : b''°C 
+Date : 2021-04-30-15:03:13   Température : b''°C 
+Date : 2021-04-30-15:03:13   Température : b''°C 
+Date : 2021-04-30-15:03:13   Température : b''°C 
+Date : 2021-04-30-15:12:02   Température : b''°C 
+Date : 2021-04-30-15:12:02   Température : b''°C 
+Date : 2021-04-30-15:12:02   Température : b''°C 
+Date : 2021-04-30-15:12:02   Température : b''°C 
+Date : 2021-04-30-15:12:02   Température : b''°C 
+Date : 2021-04-30-15:12:02   Température : b''°C 
+Date : 2021-04-30-15:12:02   Température : b''°C 
+Date : 2021-04-30-15:12:02   Température : b''°C 
+Date : 2021-04-30-15:12:02   Température : b''°C 
+Date : 2021-04-30-15:12:02   Température : b''°C 
+Date : 2021-04-30-15:14:37   Température : b'24.63'°C 
+Date : 2021-04-30-15:14:37   Température : b'24.63'°C 
+Date : 2021-04-30-15:14:37   Température : b'24.73'°C 
+Date : 2021-04-30-15:14:37   Température : b'24.73'°C 
+Date : 2021-04-30-15:14:37   Température : b'24.73'°C 
+Date : 2021-04-30-15:14:37   Température : b'24.73'°C 
+Date : 2021-04-30-15:14:37   Température : b'24.83'°C 
+Date : 2021-04-30-15:14:37   Température : b'24.83'°C 
+Date : 2021-04-30-15:14:37   Température : b'24.83'°C 
+Date : 2021-04-30-15:14:37   Température : b'24.73'°C 
+Date : 2021-04-30-15:19:02   Température : b'24.43'°C 
+Date : 2021-04-30-15:19:02   Température : b'24.43'°C 
+Date : 2021-04-30-15:19:02   Température : b'24.43'°C 
+Date : 2021-04-30-15:19:02   Température : b'24.43'°C 
+Date : 2021-04-30-15:19:02   Température : b'24.43'°C 
+Date : 2021-04-30-15:19:02   Température : b'24.43'°C 
+Date : 2021-04-30-15:19:02   Température : b'24.43'°C 
+Date : 2021-04-30-15:19:02   Température : b'24.53'°C 
+Date : 2021-04-30-15:19:02   Température : b'24.53'°C 
+Date : 2021-04-30-15:19:02   Température : b'24.53'°C 
+Date : 2021-04-30-15:29:20   Température : b''°C 
+Date : 2021-04-30-15:29:20   Température : b''°C 
+Date : 2021-04-30-15:29:20   Température : b''°C 
+Date : 2021-04-30-15:29:20   Température : b''°C 
+Date : 2021-04-30-15:29:20   Température : b''°C 
+Date : 2021-04-30-15:29:20   Température : b''°C 
+Date : 2021-04-30-15:29:20   Température : b''°C 
+Date : 2021-04-30-15:29:20   Température : b''°C 
+Date : 2021-04-30-15:29:20   Température : b''°C 
+Date : 2021-04-30-15:29:20   Température : b''°C 
+Date : 2021-05-03-11:00:50   Température : b'25.03'°C 
+Date : 2021-05-03-11:00:50   Température : b'25.03'°C 
+Date : 2021-05-03-11:00:50   Température : b'25.03'°C 
+Date : 2021-05-03-11:00:50   Température : b'25.03'°C 
+Date : 2021-05-03-11:00:50   Température : b'25.03'°C 
+Date : 2021-05-03-11:00:50   Température : b'25.03'°C 
+Date : 2021-05-03-11:00:50   Température : b'25.03'°C 
+Date : 2021-05-03-11:00:50   Température : b'25.03'°C 
+Date : 2021-05-03-11:00:50   Température : b'25.03'°C 
+Date : 2021-05-03-11:00:50   Température : b'25.03'°C 
+Date : 2021-05-03-11:02:59   Température : b'25.23'°C 
+Date : 2021-05-03-11:02:59   Température : b'25.23'°C 
+Date : 2021-05-03-11:02:59   Température : b'26.95'°C 
+Date : 2021-05-03-11:02:59   Température : b'28.28'°C 
+Date : 2021-05-03-11:02:59   Température : b'29.00'°C 
+Date : 2021-05-03-11:02:59   Température : b'29.21'°C 
+Date : 2021-05-03-11:02:59   Température : b'28.90'°C 
+Date : 2021-05-03-11:02:59   Température : b'28.69'°C 
+Date : 2021-05-03-11:02:59   Température : b'28.38'°C 
+Date : 2021-05-03-11:02:59   Température : b'28.08'°C 
+Date : 2021-05-03-11:04:04   Température : b'25.54'°C 
+Date : 2021-05-03-11:04:05   Température : b'25.64'°C 
+Date : 2021-05-03-11:04:06   Température : b'25.64'°C 
+Date : 2021-05-03-11:04:07   Température : b'25.64'°C 
+Date : 2021-05-03-11:04:08   Température : b'25.64'°C 
+Date : 2021-05-03-11:04:09   Température : b'25.64'°C 
+Date : 2021-05-03-11:04:10   Température : b'25.64'°C 
+Date : 2021-05-03-11:04:11   Température : b'25.64'°C 
+Date : 2021-05-03-11:04:12   Température : b'25.64'°C 
+Date : 2021-05-03-11:04:13   Température : b'25.64'°C 
+Date : 2021-05-03-11:07:11   Température : b'25.74'°C 
+Date : 2021-05-03-11:07:12   Température : b'25.74'°C 
+Date : 2021-05-03-11:07:13   Température : b'25.74'°C 
+Date : 2021-05-03-11:07:14   Température : b'25.74'°C 
+Date : 2021-05-03-11:07:15   Température : b'25.74'°C 
+Date : 2021-05-03-11:07:16   Température : b'25.74'°C 
+Date : 2021-05-03-11:07:17   Température : b'25.74'°C 
+Date : 2021-05-03-11:07:18   Température : b'25.74'°C 
+Date : 2021-05-03-11:07:19   Température : b'25.74'°C 
+Date : 2021-05-03-11:07:20   Température : b'25.74'°C 
+Date : 2021-05-03-11:08:02   Température : b'25.74'°C 
+Date : 2021-05-03-11:08:03   Température : b'28.69'°C 
+Date : 2021-05-03-11:08:04   Température : b'30.56'°C 
+Date : 2021-05-03-11:08:05   Température : b'31.09'°C 
+Date : 2021-05-03-11:08:06   Température : b'30.56'°C 
+Date : 2021-05-03-11:08:07   Température : b'30.25'°C 
+Date : 2021-05-03-11:08:08   Température : b'29.94'°C 
+Date : 2021-05-03-11:08:09   Température : b'29.62'°C 
+Date : 2021-05-03-11:08:10   Température : b'29.31'°C 
+Date : 2021-05-03-11:08:11   Température : b'29.00'°C 
+Date : 2021-05-03-11:12:09   Température : b''°C 
+Date : 2021-05-03-11:17:16   Température : b''°C 
+Date : 2021-05-03-11:17:17   Température : b''°C 
+Date : 2021-05-03-11:17:18   Température : b''°C 
+Date : 2021-05-03-11:17:19   Température : b''°C 
+Date : 2021-05-03-11:17:20   Température : b''°C 
+Date : 2021-05-03-11:17:21   Température : b''°C 
+Date : 2021-05-03-11:17:22   Température : b''°C 
+Date : 2021-05-03-11:17:23   Température : b''°C 
+Date : 2021-05-03-11:17:24   Température : b''°C 

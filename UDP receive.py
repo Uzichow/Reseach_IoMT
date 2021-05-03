@@ -5,7 +5,7 @@ localIP     = "192.168.1.79"
 localPort   = 32645
 bufferSize  = 1024
 msgFromServer       = "Hello UDP Client"
-path = "UPD_messages.txt"
+path = "UDP_messages.txt"
 
 bytesToSend = str.encode(msgFromServer)
 
